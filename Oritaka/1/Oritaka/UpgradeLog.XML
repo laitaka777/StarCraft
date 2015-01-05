@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="oritaka">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.suo">
+</Property><Property Name="Date" Value="2014年7月12日">
+</Property><Property Name="Time" Value="19:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="oritaka.sln" Description="ファイルは正常に C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.sln.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="oritaka.suo" Description="ファイルは正常に C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.suo.old としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="oritaka" Source="oritaka.vcproj" Description="Converting project file 'C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.vcproj'.">
+</Event><Event ErrorLevel="1" Project="oritaka" Source="oritaka.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="oritaka" Source="oritaka.vcproj" Description="Done converting to new project file 'C:\Users\laitaka\Desktop\研究\スタークラフト\BOT\Oritaka\oritaka.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="oritaka" Source="oritaka.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="oritaka.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="oritaka.sln" Description="Converted">
+</Event></UpgradeLog>

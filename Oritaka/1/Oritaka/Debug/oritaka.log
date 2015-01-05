@@ -1,0 +1,12 @@
+﻿2014/07/30 21:17:18 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\laitaka\Desktop\research\StarCraft\BOT\Oritaka\oritaka.vcxproj" (Build ターゲット)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\laitaka\Desktop\research\StarCraft\BOT\Oritaka\Debug\oritaka.dll" /INCREMENTAL /NOLOGO \lib\BWAPId.lib \lib\BWTAd.lib lib\tinyxmld.lib "\lib\CGAL-vc90-mt-gd.lib" "\lib\libboost_thread-vc90-mt-gd-1_40.lib" "\lib\gmp-vc90-mt-gd.lib" "\lib\mpfr-vc90-mt-gd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\oritaka.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\laitaka\Desktop\research\StarCraft\BOT\Oritaka\Debug\oritaka.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\laitaka\Desktop\research\StarCraft\BOT\Oritaka\Debug\oritaka.lib" /MACHINE:X86 /DLL Debug\oritaka.dll.embed.manifest.res
+         Debug\Dll.obj
+         Debug\Oritaka.obj
+     1>LINK : fatal error LNK1104: ファイル '\lib\BWAPId.lib' を開くことができません。
+     1>プロジェクト "C:\Users\laitaka\Desktop\research\StarCraft\BOT\Oritaka\oritaka.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.08
